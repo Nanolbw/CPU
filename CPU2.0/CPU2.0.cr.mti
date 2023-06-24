@@ -1,0 +1,64 @@
+{D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/ins.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/ins.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ins
+
+Top level modules:
+	ins
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU_tb.v} {1 {vlog -work work -vopt {D:\Users\18755\Desktop\computer organization\CPU2.0\MyCPU_tb.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module MyCPU_tb
+
+Top level modules:
+	MyCPU_tb
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/pc.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/pc.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module Datastorage
+
+Top level modules:
+	Datastorage
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/acc.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/acc.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module acc
+
+Top level modules:
+	acc
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/cu.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/cu.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module cu
+
+Top level modules:
+	cu
+
+} {} {}} {D:/Users/18755/Desktop/computer organization/CPU2.0/register.v} {1 {vlog -work work -vopt {D:/Users/18755/Desktop/computer organization/CPU2.0/register.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}}

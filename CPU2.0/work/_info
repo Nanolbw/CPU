@@ -1,0 +1,177 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Users\18755\Desktop\computer organization\Mycpu\CPU1.0
+T_opt
+V64BC5GhLIF=:doZDZESHj2
+04 8 4 work MyCPU_tb fast 0
+=1-8c1645840cf3-5ff985a9-c3-4a28
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OE;O;10.1a;51
+Z1 dD:\Users\18755\Desktop\computer organization\Mycpu\CPU1.0
+vacc
+VN7ZVbad0NjURndJRRRFlR3
+r1
+31
+Imk5E5<Pk:iCIJikjJhldL0
+Z2 dD:\Users\18755\Desktop\computer organization\CPU2.0
+Z3 w1578741823
+8D:/Users/18755/Desktop/computer organization/CPU2.0/acc.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/acc.v
+L0 1
+Z4 OE;L;10.1a;51
+Z5 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 `ml8YHzTL`h<d23MVnK^]1
+!s108 1610186948.107000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/acc.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/acc.v|
+!i10b 1
+!s85 0
+valu
+V9T3mRFd?MKHb:2KDK4Ncm1
+r1
+31
+Ig_LhdZT521[jMm7n;_jSV2
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v
+L0 1
+R4
+R5
+!s100 B`=@fXdcClHX;m<D3BPPa1
+!s108 1610186948.404000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/ALU.v|
+!i10b 1
+!s85 0
+vcpu
+V@1`h]2l?zT=Kl9_e;lZUI2
+r1
+31
+I^zdTKO8=HTjag=F=n0PEO2
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v
+L0 1
+R4
+R5
+!s100 Bh>H`ePUPazmQOJoXmALd2
+!s108 1610186949.809000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/MyCPU.v|
+!i10b 1
+!s85 0
+vcu
+V^1Sen]e3gF2X2GU:nU`JC3
+r1
+31
+IdFkUI^O1YZXOBXCPLXh_C3
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/cu.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/cu.v
+L0 1
+R4
+R5
+!s100 oG>PRL07K>3IA[GB08EY42
+!s108 1610186948.740000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/cu.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/cu.v|
+!i10b 1
+!s85 0
+vDatastorage
+VZR3_l9YfUC9D=VDPm`NXJ0
+r1
+31
+IFJ0BVR;d9Ac4BieR:@OT71
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v
+L0 1
+R4
+R5
+n@datastorage
+!s100 dJOf:`2Lk8d_2BEaPhZZI0
+!s108 1610186948.924000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/Datastorage.v|
+!i10b 1
+!s85 0
+vins
+V1ILXcR2]RLL_<Q8NR@WZb0
+r1
+31
+I^P[IkIPz4zNMR=jjHHi8T1
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/ins.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/ins.v
+L0 1
+R4
+R5
+!s100 X8Z[C9llZ?XV_dO]`=Z^51
+!s108 1610186949.371000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/ins.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/ins.v|
+!i10b 1
+!s85 0
+vMyCPU_tb
+!i10b 1
+VMm8c3aCTkal1nVi>`Ed>Z1
+r1
+!s85 0
+31
+In@o9dHMCJR:@B>ToI7?;z1
+R2
+w1610188915
+8D:\Users\18755\Desktop\computer organization\CPU2.0\MyCPU_tb.v
+FD:\Users\18755\Desktop\computer organization\CPU2.0\MyCPU_tb.v
+L0 1
+R4
+!s90 -reportprogress|300|-work|work|-vopt|D:\Users\18755\Desktop\computer organization\CPU2.0\MyCPU_tb.v|
+R5
+n@my@c@p@u_tb
+!s100 <ThO9`R`]TZXojLNBDcin1
+!s108 1610188919.483000
+!s107 D:\Users\18755\Desktop\computer organization\CPU2.0\MyCPU_tb.v|
+vpc
+VNOk53E0;TPl3Y0gRUYN>j1
+r1
+31
+I@LT_VD`oL9;EooY^5D@Mh0
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/pc.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/pc.v
+L0 1
+R4
+R5
+!s100 YLTA[Jf;n3lkg3J6d`^b83
+!s108 1610186950.402000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/pc.v|
+!i10b 1
+!s85 0
+vregister
+VLPBVYeVUVWeFo``CeC@^11
+r1
+31
+I8d:IWS<f<3<n2OYZbSIc_1
+R2
+R3
+8D:/Users/18755/Desktop/computer organization/CPU2.0/register.v
+FD:/Users/18755/Desktop/computer organization/CPU2.0/register.v
+L0 1
+R4
+R5
+!s100 i^2EAmUT7h;N66eTDhWVC0
+!s108 1610186950.648000
+!s107 D:/Users/18755/Desktop/computer organization/CPU2.0/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/Users/18755/Desktop/computer organization/CPU2.0/register.v|
+!i10b 1
+!s85 0

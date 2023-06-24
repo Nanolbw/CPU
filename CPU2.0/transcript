@@ -1,0 +1,16 @@
+# Reading D:/Modelsim/tcl/vsim/pref.tcl 
+# error: Layout::Clairvoyance can't read "map(v)": no such element in array
+# can't read "map(v)": no such element in array
+#     while executing
+# "Layout::Clairvoyance" 
+# //  ModelSim SE 10.1a Feb 22 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile {D:/Users/18755/Desktop/v—K/!1-)Yf-/ÃÃÃ/'	
+/¡—:ÄŸ/žŒ/computer organization/CPU2.0/MyCPU.v} 

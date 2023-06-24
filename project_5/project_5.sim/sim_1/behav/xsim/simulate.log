@@ -1,0 +1,4 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+$finish called at time : 3640 ns : File "D:/CPU/project_5/project_5.srcs/sources_1/new/mycpu.v" Line 91
+$finish called at time : 3680 ns : File "D:/CPU/project_5/project_5.srcs/sources_1/new/mycpu.v" Line 91
